@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Krisshna
+- 👀 I’m interested in colloborating on real world applications
+- 🌱 I’m currently learning Spring Boot & Domain Driven Design Architecture
+- 💞️ I’m looking to collaborate on open source projects utilizing spring boot.
+- 📫 Reachable on linkedin : https://www.linkedin.com/in/kriyadav/
